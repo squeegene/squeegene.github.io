@@ -1,0 +1,149 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Eugene Ng
+  tagline: Engineer
+  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: ngyeugene@gmail.com
+  phone: 860 726 6143
+  website: eugene.ng
+  linkedin: eugeneyng
+  xing:
+  github: squeegene
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: http://eugene.ng/Resume.pdf
+
+  languages:
+    - idiom: English
+      level: Native
+
+  interests:
+    - item: Skiing
+      link: https://youtu.be/Zpvj9qjXjHg
+
+    - item: Tennis
+      link:
+
+    - item: Volleyball
+      link:
+
+career-profile:
+  title: Career Profile
+  summary: |
+    I am a technical project manager with 5+ years experience managing fast-paced and requirement-heavy military and commercial contracts. Projects are typically very customer-focused and results-oriented, and require coordination between multiple customers and suppliers. I am a highly curious and active business owner, having won or finalized in multiple design challenges (HeroX, YCombinator) with Presque Labs LLC. In my free time I love to stay active and play volleyball, tennis, and ski.
+education:
+  - degree: MEng, Electrical Engineering
+    university: University of Connecticut
+    time: 2018 - 2020
+    details: |
+      blah
+        - Bullet point
+        - Bullet point
+  - degree: MEng, Mechanical Engineering
+    university: Cornell University
+    time: 2016 - 2017
+    details: |
+      blah
+        - Bullet point
+        - Bullet point
+  - degree: BS, Mechanical Engineering
+    university: Cornell University
+    time: 2012 - 2016
+    details: |
+      blah
+        - Bullet point
+        - Bullet point
+experiences:
+  - role: Senior Project Engineer
+    time: 02/2017 - Present
+    company: Pratt & Whitney | Raytheon Technologies Corp
+    details: |
+      Management of over 200 capital equipment projects totaling more than $100M to meet cost, time, and technical objectives. Focused on best-in-class automated manufacturing of aircraft components and material handling systems.
+        - Project Ranger Facility (2021) - Managed design and development of blades and vanes material handling automation for finish and inspection activity in Pratt & Whitney’s new, state-of-the-art, 1M sq-ft facility, in Asheville, NC.
+        - Automatic Defect Detection System (2021) - Definition, development, and testing of new visual inspection system capable of automatically detecting and categorizing defects like nicks and dents on aircraft components. Helped with algorithm testing, training, and analysis to determine areas of continuous improvement.
+        - Capital Equipment Modernization (2020) - Design, implementation, training, and support of modern electronic tools that replaced old processes and workflows. Streamlined and simplified capital equipment process by up to 50% and improved tracking and visibility throughout. Project implementation completed in less than 6 months.
+        - Linear Friction Welder (2018) - Liaison between military and commercial teams in the US and Japan for the install of a large $10M linear friction welder.
+  - role: Co-Founder
+    time: 07/2015 - Present
+    company: Presque Labs LLC
+    details: |
+        - YCombinator finalist (2021)
+        - Winner of HeroX NextGen Cart Design Challenge (2019)
+        - Mobile app development company behind Context (a text message analytics application), and Revocube (a 3D puzzle game) (2017)
+
+
+projects:
+  title: Projects
+  intro: >
+
+  assignments:
+    - title: Nonlinear Optimal Control of the COVID-19 Pandemic in Connecticut (2020)
+      link: "https://media-exp1.licdn.com/dms/document/C4E2DAQFbLAPgPFmxSg/profile-treasury-document-pdf-analyzed/0/1615527076860?e=1633582800&v=beta&t=d6tG4s2GTHGBgcMwmzWbz3ozT1UTEjImfFAlC-K-GPY"
+      tagline: "This paper attempts to model the spread of the disease in the state of Connecticut, and formulate a nonlinear closed-loop feedback controller to minimize the number of infected."
+    - title: HeroX NextGen Cart Design Challenge | Presque Labs LLC (2018)
+      link: "https://www.presquelabs.com/chairiot"
+      tagline: "Design and build of a next generation Airport Material Transport Cart, to track and transport secured goods from a central receiving center to retail stores, storage areas, and operation facilities within an airport"
+    - title: Arachnabot, Spider-Inspired Robot | Collective Embodied Intelligence Lab (2016)
+      link: "https://media-exp1.licdn.com/dms/document/C4E2DAQGePT9Jvu_taQ/profile-treasury-document-pdf-analyzed/0/1615523927466?e=1633582800&v=beta&t=um9AMiPY0y_gMHSZyaWaTiNi2sY1-lKZVd-YoSBx_Nk"
+      tagline: "Design, fabrication, modeling, and analysis of a to-scale jumping robot with spider-inspired joints"
+    - title: Cornell Concrete Canoe (2015)
+      link: "https://media-exp1.licdn.com/dms/document/C4E2DAQFjYhZiQN0Tnw/profile-treasury-document-pdf-analyzed/0/1615526200108?e=1633582800&v=beta&t=wUVi-b29oQ6sRLWX5548a5ICTiFXZTc_TyfCHXegGmQ"
+      tagline: "Project management of 30-person team for the ASCE Concrete Canoe Competition, including design and testing of different hulls, molds, and concrete mixes"
+
+# publications:
+#   title: Publications
+#   intro: |
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
+#   papers:
+#     - title: The Art of Computer Programming
+#       link: "#"
+#       authors: Donald E. Knuth
+#       conference: Addison-Wesley, 1968
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+    - name: Ansys
+      level: 75%
+    - name: HTML / CSS
+      level: 75%
+    - name: Javascript
+      level: 75%
+    - name: KiCad
+      level: 75%
+    - name: LaTeX
+      level: 95%
+    - name: MATLAB
+      level: 95%
+    - name: Microsoft Access
+      level: 95%
+    - name: Python
+      level: 90%
+    - name: Solidworks
+      level: 75%
+    - name: Visual Basic for Applications (VBA)
+      level: 95%
+    - name: Structured Query Language (SQL)
+      level: 90%
+    - name: Wordpress
+      level: 75%
+
+footer: >
+  Designed with <a href="https://jekyllrb.com/" target="_blank" rel="nofollow">Jekyll</a>
