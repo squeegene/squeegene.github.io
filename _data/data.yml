@@ -92,16 +92,16 @@ projects:
 
   assignments:
     - title: Nonlinear Optimal Control of the COVID-19 Pandemic in Connecticut (2020)
-      link: "https://media-exp1.licdn.com/dms/document/C4E2DAQFbLAPgPFmxSg/profile-treasury-document-pdf-analyzed/0/1615527076860?e=1633582800&v=beta&t=d6tG4s2GTHGBgcMwmzWbz3ozT1UTEjImfFAlC-K-GPY"
+      link: "https://github.com/eugeneyng/eugeneyng.github.io/blob/master/_data/engr5315.pdf"
       tagline: "This paper attempts to model the spread of the disease in the state of Connecticut, and formulate a nonlinear closed-loop feedback controller to minimize the number of infected."
     - title: HeroX NextGen Cart Design Challenge | Presque Labs LLC (2018)
-      link: "https://www.presquelabs.com/chairiot"
+      link: "https://www.herox.com/nextgen-cart-design-challenge"
       tagline: "Design and build of a next generation Airport Material Transport Cart, to track and transport secured goods from a central receiving center to retail stores, storage areas, and operation facilities within an airport"
     - title: Arachnabot, Spider-Inspired Robot | Collective Embodied Intelligence Lab (2016)
-      link: "https://media-exp1.licdn.com/dms/document/C4E2DAQGePT9Jvu_taQ/profile-treasury-document-pdf-analyzed/0/1615523927466?e=1633582800&v=beta&t=um9AMiPY0y_gMHSZyaWaTiNi2sY1-lKZVd-YoSBx_Nk"
+      link: "https://github.com/eugeneyng/eugeneyng.github.io/blob/master/_data/nerc2016.pdf"
       tagline: "Design, fabrication, modeling, and analysis of a to-scale jumping robot with spider-inspired joints"
     - title: Cornell Concrete Canoe (2015)
-      link: "https://media-exp1.licdn.com/dms/document/C4E2DAQFjYhZiQN0Tnw/profile-treasury-document-pdf-analyzed/0/1615526200108?e=1633582800&v=beta&t=wUVi-b29oQ6sRLWX5548a5ICTiFXZTc_TyfCHXegGmQ"
+      link: "https://github.com/eugeneyng/eugeneyng.github.io/blob/master/_data/thrakos.pdf"
       tagline: "Project management of 30-person team for the ASCE Concrete Canoe Competition, including design and testing of different hulls, molds, and concrete mixes"
 
 # publications:
