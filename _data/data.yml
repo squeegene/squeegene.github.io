@@ -25,7 +25,7 @@ sidebar:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: http://eugene.ng/Resume.pdf
+  pdf: https://github.com/eugeneyng/eugeneyng.github.io/raw/master/_data/Resume.pdf
 
   languages:
     - idiom: English
