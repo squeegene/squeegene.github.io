@@ -25,7 +25,7 @@ sidebar:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: https://github.com/eugeneyng/eugeneyng.github.io/raw/master/_data/Resume.pdf
+  pdf: https://github.com/eugeneyng/eugeneyng.github.io/raw/master/_data/resume.pdf
 
   languages:
     - idiom: English
@@ -34,13 +34,10 @@ sidebar:
   interests:
     - item: Piano
       link: https://www.youtube.com/channel/UCq9CWmdBPJ167Vo3cEH_Erw/
-      
     - item: Skiing
       link: https://www.youtube.com/channel/UCq9CWmdBPJ167Vo3cEH_Erw/
-
     - item: Tennis
       link:
-
     - item: Volleyball
       link: https://www.youtube.com/channel/UCq9CWmdBPJ167Vo3cEH_Erw/
 
@@ -67,10 +64,11 @@ education:
     university: Cornell University
     time: 2012 - 2016
     details: |
-      blah
+      Minors - English
         - Bullet point
         - Bullet point
 experiences:
+  - title: Professional History
   - role: Senior Project Engineer
     time: 02/2017 - Present
     company: Pratt & Whitney | Raytheon Technologies Corp
@@ -90,7 +88,7 @@ experiences:
 
 
 projects:
-  title: Projects
+  title: Projects & Relevant Experience
   intro: >
 
   assignments:
