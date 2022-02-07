@@ -44,7 +44,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I am a technical project manager with 5+ years experience managing fast-paced and requirement-heavy military and commercial contracts. Projects are typically very customer-focused and results-oriented, and require coordination between multiple customers and suppliers. I am a highly curious and active business owner, having won or finalized in multiple design challenges (HeroX, YCombinator) with Presque Labs LLC. In my free time I love to stay active and play volleyball, tennis, and ski.
+    I am a technical project manager with 5+ years experience managing fast-paced military and commercial contracts. On the side, my company, Presque Labs LLC has won or finalized in multiple design challenges (HeroX, YCombinator). In my free time I love to stay active and play volleyball, tennis, and ski.
 education:
   - degree: MEng, Electrical Engineering
     university: University of Connecticut
@@ -69,15 +69,11 @@ education:
         - Bullet point
 experiences:
   - title: Professional History
-  - role: Senior Project Engineer
+  - role: Principal Project Manager
     time: 02/2017 - Present
     company: Pratt & Whitney | Raytheon Technologies Corp
     details: |
-      Management of over 200 capital equipment projects totaling more than $100M to meet cost, time, and technical objectives. Focused on best-in-class automated manufacturing of aircraft components and material handling systems.
-        - Project Ranger Facility (2021) - Managed design and development of blades and vanes material handling automation for finish and inspection activity in Pratt & Whitney’s new, state-of-the-art, 1M sq-ft facility, in Asheville, NC.
-        - Automatic Defect Detection System (2021) - Definition, development, and testing of new visual inspection system capable of automatically detecting and categorizing defects like nicks and dents on aircraft components. Helped with algorithm testing, training, and analysis to determine areas of continuous improvement.
-        - Capital Equipment Modernization (2020) - Design, implementation, training, and support of modern electronic tools that replaced old processes and workflows. Streamlined and simplified capital equipment process by up to 50% and improved tracking and visibility throughout. Project implementation completed in less than 6 months.
-        - Linear Friction Welder (2018) - Liaison between military and commercial teams in the US and Japan for the install of a large $10M linear friction welder.
+      Management of over manufacturing engineering operations and capital equipment projects totaling more than $100M per year. Focused on best-in-class automated manufacturing of aircraft components and material handling systems.
   - role: Co-Founder
     time: 07/2015 - Present
     company: Presque Labs LLC
