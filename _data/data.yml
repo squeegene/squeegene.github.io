@@ -100,13 +100,13 @@ projects:
       tagline: "\nCreated a modified SEIR model of COVID-19 spread in Connecticut, and formulated a discrete, nonlinear, predictive, closed-loop feedback controller to minimize the number of infected. \nSimulated mathematical model in Python using the GEKKO optimization suite"
     - title: HeroX NextGen Cart Design Challenge | Presque Labs LLC (2018)
       link: "https://www.herox.com/nextgen-cart-design-challenge"
-      tagline: "Design and build of a next generation Airport Material Transport Cart, to track and transport secured goods from a central receiving center to retail stores, storage areas, and operation facilities within an airport"
+      tagline: "HeroX NextGen Cart Design Challenge winner for airport material transport (AMTC) concept to track and transport secured goods within an airport. \nDesigned electrical circuit in KiCad and prototyped and fabricated PCB through OSH Park. \nDeveloped user interface and linked IoT sensors to SQL database using Python."
     - title: Arachnabot, Spider-Inspired Robot | Collective Embodied Intelligence Lab (2016)
       link: "https://github.com/eugeneyng/eugeneyng.github.io/blob/master/_data/nerc2016.pdf"
-      tagline: "Analyzed, modeled, and simulated a to-scale jumping robot with spider-inspired joints in MATLAB, using a differential algebraic equation (DAE) method"
+      tagline: "\nAnalyzed, modeled, and simulated a to-scale jumping robot with spider-inspired joints in MATLAB, using a differential algebraic equation (DAE) method. \nDirected micro-fabrication using FDM and SLA 3D printing methods"
     - title: Cornell Concrete Canoe (2016)
       link: "https://github.com/eugeneyng/eugeneyng.github.io/blob/master/_data/thrakos.pdf"
-      tagline: "Coordinated and oversaw 6 subteams (aesthetics, analysis, business, mold, mix, and paddling) and 34 persons for the 2016 ASCE Concrete Canoe Competition"
+      tagline: "\n3rd place finish at 2016 ASCE Concrete Canoe Competition. \nCoordinated and oversaw 6 subteams (aesthetics, analysis, business, mold, mix, and paddling) and 34 persons for the 2016 ASCE Concrete Canoe Competition. \nIntroduced novel moisture sensors and concrete curing control. \nEliminated shrinkage cracking while increasing tensile and compressive strength by 62% and 35%"
 
 # publications:
 #   title: Publications
