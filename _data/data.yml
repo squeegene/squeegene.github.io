@@ -73,13 +73,21 @@ experiences:
     time: 02/2017 - Present
     company: Pratt & Whitney | Raytheon Technologies Corp
     details: |
-      Management of over manufacturing engineering operations and capital equipment projects totaling more than $100M per year. Focused on best-in-class automated manufacturing of aircraft components and material handling systems.
+        - Oversaw procurement of hundreds of capital equipment projects totaling more than $100M per year
+          - Managed material handling automation equipment for machining/inspection processes in new Asheville site (2022)
+          - Managed new visual inspection system capable of automatic defection and categorization (2022)
+        - Converted capital equipment Access database to SQL Server with Agilepoint front-end (2021)
+        - Established new quote approval operations workflow in Sharepoint and decreased process time by 50% (2021)
+        
   - role: Co-Founder
     time: 07/2015 - Present
     company: Presque Labs LLC
     details: |
-        - Winner of HeroX NextGen Cart Design Challenge (2019)
-        - Mobile app development company behind Context (a text message analytics application), and Revocube (a 3D puzzle game) (2017)
+        - HeroX NextGen Cart Design Challenge winner for airport material transport (AMTC) concept to track and transport secured goods within an airport (2018)
+          - Designed electrical circuit in KiCad and prototyped and fabricated PCB through OSH Park
+          - Developed user interface and linked IoT sensors to SQL database using Python
+        - C# programming in Unity for Revocube (a 3D puzzle game) (2017)
+        - Java programming for Context (a text message analytics app) (2016)
 
 
 projects:
@@ -89,16 +97,16 @@ projects:
   assignments:
     - title: Nonlinear Optimal Control of the COVID-19 Pandemic in Connecticut (2020)
       link: "https://github.com/eugeneyng/eugeneyng.github.io/blob/master/_data/engr5315.pdf"
-      tagline: "This paper attempts to model the spread of the disease in the state of Connecticut, and formulate a nonlinear closed-loop feedback controller to minimize the number of infected."
+      tagline: "Created a modified SEIR model of COVID-19 spread in Connecticut, and formulated a discrete, nonlinear, predictive, closed-loop feedback controller to minimize the number of infected."
     - title: HeroX NextGen Cart Design Challenge | Presque Labs LLC (2018)
       link: "https://www.herox.com/nextgen-cart-design-challenge"
       tagline: "Design and build of a next generation Airport Material Transport Cart, to track and transport secured goods from a central receiving center to retail stores, storage areas, and operation facilities within an airport"
     - title: Arachnabot, Spider-Inspired Robot | Collective Embodied Intelligence Lab (2016)
       link: "https://github.com/eugeneyng/eugeneyng.github.io/blob/master/_data/nerc2016.pdf"
-      tagline: "Design, fabrication, modeling, and analysis of a to-scale jumping robot with spider-inspired joints"
-    - title: Cornell Concrete Canoe (2015)
+      tagline: "Analyzed, modeled, and simulated a to-scale jumping robot with spider-inspired joints in MATLAB, using a differential algebraic equation (DAE) method"
+    - title: Cornell Concrete Canoe (2016)
       link: "https://github.com/eugeneyng/eugeneyng.github.io/blob/master/_data/thrakos.pdf"
-      tagline: "Project management of 30-person team for the ASCE Concrete Canoe Competition, including design and testing of different hulls, molds, and concrete mixes"
+      tagline: "Coordinated and oversaw 6 subteams (aesthetics, analysis, business, mold, mix, and paddling) and 34 persons for the 2016 ASCE Concrete Canoe Competition"
 
 # publications:
 #   title: Publications
@@ -131,7 +139,7 @@ skills:
     - name: Microsoft Access
       level: 95%
     - name: Python
-      level: 90%
+      level: 95%
     - name: Solidworks
       level: 75%
     - name: Visual Basic for Applications (VBA)
