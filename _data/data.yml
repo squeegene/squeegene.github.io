@@ -97,9 +97,7 @@ projects:
   assignments:
     - title: Nonlinear Optimal Control of the COVID-19 Pandemic in Connecticut (2020)
       link: "https://github.com/eugeneyng/eugeneyng.github.io/blob/master/_data/engr5315.pdf"
-      details: |
-          - Created a modified SEIR model of COVID-19 spread in Connecticut, and formulated a discrete, nonlinear, predictive, closed-loop feedback controller to minimize the number of infected
-          - Simulated mathematical model in Python using the GEKKO optimization suite
+      tagline: "\nCreated a modified SEIR model of COVID-19 spread in Connecticut, and formulated a discrete, nonlinear, predictive, closed-loop feedback controller to minimize the number of infected. \nSimulated mathematical model in Python using the GEKKO optimization suite"
     - title: HeroX NextGen Cart Design Challenge | Presque Labs LLC (2018)
       link: "https://www.herox.com/nextgen-cart-design-challenge"
       tagline: "Design and build of a next generation Airport Material Transport Cart, to track and transport secured goods from a central receiving center to retail stores, storage areas, and operation facilities within an airport"
