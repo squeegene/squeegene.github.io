@@ -74,8 +74,10 @@ experiences:
     company: Pratt & Whitney | Raytheon Technologies Corp
     details: |
         - Oversaw procurement of hundreds of capital equipment projects totaling more than $100M per year
-          - Wrote technical specifications, negotiated commercial and legal terms and conditions, and validated material handling automation equipment for machining/inspection processes in new Asheville site (2022)
-          - Managed new visual inspection system capable of automatic defection and categorization (2022)
+          - Wrote technical specifications identifying critical processes and guiding design concepts for external vendors
+          - Negotiated commercial (pricing, payment structure) and legal terms and conditions to reduce cost and risk 
+          - Validated and led acceptance tests for all projects, including material handling automation equipment, machining and inspection systems, and CNC and welding equipment, etc.
+          - Provided EAR and ITAR classifications for export of sensitive technical data 
         - Converted capital equipment Access database to SQL Server with Agilepoint front-end (2021)
         - Established new quote approval operations workflow in Sharepoint and decreased process time by 50% (2021)
         
@@ -86,6 +88,7 @@ experiences:
         - HeroX NextGen Cart Design Challenge winner for airport material transport (AMTC) concept to track and transport secured goods within an airport (2018)
           - Designed electrical circuit in KiCad and prototyped and fabricated PCB through OSH Park
           - Developed user interface and linked IoT sensors to SQL database using Python
+        - Full stack programming with Flask, Django, and MongoDB for Waddle, an events app (2022)
         - Generated concepts for Revocube (a 3D puzzle game) and programmed game in Unity with C# (2017)
         - Built and programmed Context, a text message analytics app, in Android Studio with Java (2016)
         - Maintained and provided site reliability engineering for company website and internal applications, including Docker, Jupyter, Nginx, Nextcloud, and Wordpress
