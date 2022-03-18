@@ -103,8 +103,8 @@ projects:
       link: "https://github.com/eugeneyng/eugeneyng.github.io/blob/master/_data/engr5315.pdf"
       tagline: "\nCreated a modified SEIR model of COVID-19 spread in Connecticut, and formulated a discrete, nonlinear, predictive, closed-loop feedback controller to minimize the number of infected. \nSimulated mathematical model in Python using the GEKKO optimization suite"
     - title: HeroX NextGen Cart Design Challenge | Presque Labs LLC (2018)
-      link: "https://www.herox.com/nextgen-cart-design-challenge"
-      tagline: "HeroX NextGen Cart Design Challenge winner for airport material transport (AMTC) concept to track and transport secured goods within an airport. \nDesigned electrical circuit in KiCad and prototyped and fabricated PCB through OSH Park. \nDeveloped user interface and linked IoT sensors to SQL database using Python."
+      link: "https://chairiot.presquelabs.com"
+      tagline: "[HeroX](https://www.herox.com/nextgen-cart-design-challenge) NextGen Cart Design Challenge winner for airport material transport (AMTC) concept to track and transport secured goods within an airport. \nDesigned electrical circuit in KiCad and prototyped and fabricated PCB through OSH Park. \nDeveloped user interface and linked IoT sensors to SQL database using Python."
     - title: Arachnabot, Spider-Inspired Robot | Collective Embodied Intelligence Lab (2016)
       link: "https://github.com/eugeneyng/eugeneyng.github.io/blob/master/_data/nerc2016.pdf"
       tagline: "\nAnalyzed, modeled, and simulated a to-scale jumping robot with spider-inspired joints in MATLAB, using a differential algebraic equation (DAE) method. \nDirected micro-fabrication using FDM and SLA 3D printing methods"
