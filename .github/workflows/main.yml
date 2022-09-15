@@ -38,13 +38,7 @@ jobs:
           pelican content
           
       - name: Deploy
-        uses: hpcodecraft/action-deploy-workspace-to-repo@v2.2
-        env:
-          GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_ACCESS_TOKEN }}
-          SRC_FOLDER: content
-          DEST_OWNER: eugeneyng
-          DEST_REPO: eugeneyng.github.io
-          DEST_BRANCH: source
-          DEST_FOLDER: /
-          DEST_PREDEPLOY_CLEANUP: ""
-
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: source
+          folder: content # The folder the action should deploy.
