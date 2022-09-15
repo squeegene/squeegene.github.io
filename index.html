@@ -1,18 +1,385 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" type="text/css" href="./theme/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="./theme/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="./theme/css/main.css" />
 
 
-{% include career-profile.html %}
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="" />
 
-{% unless site.data.data.sidebar.education %}
-  {% include education.html %}
-{% endunless %}
 
-{% include experiences.html %}
+    <meta name="author" content="Eugene Ng" />
+    <meta name="description" content="" />
+    <title>Eugene Ng</title>
 
-{% include projects.html %}
+</head>
 
-{% include publications.html %}
+<body id="index" class="home">
 
-{% include skills.html %}
+<div class="wrapper">
+<!-- Use icons from fontawesome when you are adding new item in the contact list  -->             
+ 
+<div class="sidebar-wrapper">
+    <div class="profile-container">
+        <img class="profile-img" src="./images/profile.png" alt="profile picture" />
+        <h1 class="name">Eugene Ng</h1>
+        <h3 class="tagline">Engineer</h3>
+    </div><!--//profile-container-->
+    
+    <div class="contact-container container-block">
+        <ul class="list-unstyled contact-list">
+           
+            <li class="email"><i class="fa fa-envelope"></i><a href="mailto: eyn2@cornell.edu">eyn2@cornell.edu</a></li>
+            
+            <li class="phone"><i class="fa fa-phone"></i><a href="tel:860 726 6143">860 726 6143</a></li>
+            
+            <li class="website"><i class="fa fa-globe"></i><a href="http://eugene.ng" target="_blank">eugene.ng</a></li>
+
+            <li class="website"><i class="fa fa-book"></i><a href="http://portfolio.eugene.ng" target="_blank">portfolio.eugene.ng</a></li>
+            
+            <li class="linkedin"><i class="fa fa-linkedin"></i><a href="http://linkedin.com/in/eugeneyng" target="_blank">eugeneyng</a></li>
+            
+            <li class="github"><i class="fa fa-github"></i><a href="http://github.com/eugeneyng" target="_blank">eugeneyng</a></li>
+
+            <li class="pdf"><i class="fa fa-file"></i><a href="https://github.com/eugeneyng/eugeneyng.github.io/content/resume.pdf" target="_blank">Resume PDF</a></li>
+          
+            
+        </ul>
+    </div><!--//contact-container-->
+<div class="education-container container-block">
+<h2 class="container-block-title">Education</h2>
+    <div class="item">
+	    <h4 class="degree">M. Eng, Electrical Engineering</h4>
+	    <h5 class="meta">University of Connecticut</h5>
+	    <div class="time">2018 - 2020</div>
+	</div><!--//item-->
+    <div class="item">
+	    <h4 class="degree">M. Eng, Mechanical Engineering</h4>
+	    <h5 class="meta">Cornell University</h5>
+	    <div class="time">2016 - 2017</div>
+	</div><!--//item-->
+    <div class="item">
+	    <h4 class="degree">B.S., Mechanical Engineering</h4>
+	    <h5 class="meta">Cornell University</h5>
+	    <div class="time">2012 - 2016</div>
+	</div><!--//item-->
+</div><!--//education-container-->
+<div class="languages-container container-block">
+	<h2 class="container-block-title">Languages</h2>
+	<ul class="list-unstyled interests-list">
+		<li>English <span class="lang-desc">(Native)</span></li>
+	</ul>
+</div><!--//interests-->
+<div class="interests-container container-block">
+	<h2 class="container-block-title">Interests</h2>
+	<ul class="list-unstyled interests-list">
+    <li>
+		   <a href=https://www.youtube.com/channel/UCq9CWmdBPJ167Vo3cEH_Erw>Piano</a>
+    </li>
+    <li>
+		   <a href=https://www.youtube.com/channel/UCq9CWmdBPJ167Vo3cEH_Erw>Skiing</a>
+    </li>
+    <li>
+		   <a href=https://www.youtube.com/channel/UCq9CWmdBPJ167Vo3cEH_Erw>Tennis</a>
+    </li>
+    <li>
+		   <a href=https://www.youtube.com/channel/UCq9CWmdBPJ167Vo3cEH_Erw>Volleyball</a>
+    </li>
+	</ul>
+</div><!--//interests-->
+<!-- <div class="remove-container container-block">
+<h2 class="container-block-title">About Theme</h2>
+<ul class="list-unstyled interests-list">
+<a target="_blank" href="https://github.com/eugeneyng/pelican-resume"><li>Designed with Pelican</li></a>
+</ul>
+</div> -->    
+</div><!--//sidebar-wrapper-->    <div class="main-wrapper">
+       
+<section class="section summary-section">
+<h2 class="section-title"><i class="fa fa-user"></i>Career Profile</h2>
+<div class="summary">
+    <p>I am a technical project manager with 5+ years experience managing fast-paced military and commercial contracts. On the side, my company, Presque Labs LLC has won or finalized in multiple design challenges (HeroX, YCombinator). In my free time I love to stay active and play volleyball, tennis, and ski.</p>
+</div><!--//summary-->
+</section><!--//section-->
+                    
+<section class="section experiences-section">
+  <h2 class="section-title"><i class="fa fa-briefcase"></i>Work History</h2>
+  <div class="item">
+    <div class="meta">
+      <div class="upper-row">
+        <h3 class="job-title">Manager, Manufacturing Engineering & Operations</h3>
+        <div class="time">Feb 2017 - Present</div>
+      </div>
+      <!--//upper-row-->
+      <div class="company">Pratt & Whitney | Raytheon Technologies Corp</div>
+    </div>
+    <!--//meta-->
+    <div class="details">
+      <div>
+        <ul>
+          <li>Oversaw procurement of hundreds of capital equipment projects totaling more than $100M per year
+            <ul>
+              <li>Wrote technical specifications identifying critical processes and guiding design concepts for external vendors</li>
+              <li>Negotiated commercial (pricing, payment structure) and legal terms and conditions to reduce cost and risk</li>
+              <li>Validated and led acceptance tests for all projects, including material handling automation equipment, machining and inspection systems, and CNC and welding equipment, etc.</li>
+              <li>Provided EAR and ITAR classifications for export of sensitive technical data</li>
+            </ul>
+          </li>
+          <li>Converted capital equipment Access database to SQL Server with Agilepoint front-end (2021)
+            <ul>
+            </ul>
+          </li>
+          <li>Established new quote approval operations workflow in Sharepoint and decreased process time by 50% (2021)
+            <ul>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  <!--//item-->
+  <div class="item">
+    <div class="meta">
+      <div class="upper-row">
+        <h3 class="job-title">Co-Founder</h3>
+        <div class="time">Jul 2015 - Present</div>
+      </div>
+      <!--//upper-row-->
+      <div class="company">Presque Labs LLC</div>
+    </div>
+    <!--//meta-->
+    <div class="details">
+      <div>
+        <ul>
+          <li>HeroX NextGen Cart Design Challenge winner for airport material transport (AMTC) concept to track and transport secured goods within an airport (2018)
+            <ul>
+              <li>Designed electrical circuit in KiCad and prototyped and fabricated PCB through OSH Park</li>
+              <li>Developed user interface and linked IoT sensors to SQL database using Python</li>
+            </ul>
+          </li>
+          <li>Full stack programming with Flask, Django, and MongoDB for Waddle, an events app (2022)
+            <ul>
+            </ul>
+          </li>
+          <li>Generated concepts for Revocube (a 3D puzzle game) and programmed game in Unity with C# (2017)
+            <ul>
+            </ul>
+          </li>
+          <li>Built and programmed Context, a text message analytics app, in Android Studio with Java (2016)
+            <ul>
+            </ul>
+          </li>
+          <li>Maintained and provided site reliability engineering for company website and internal applications, including Docker, Jupyter, Nginx, Nextcloud, and Wordpress
+            <ul>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  <!--//item-->
+</section>
+<!--//section-->
+                    
+<section class="section projects-section">
+  <h2 class="section-title"><i class="fa fa-archive"></i>Projects</h2>
+  <div class="intro">
+      <p></p>
+  </div><!--//intro-->
+      <div class="item">
+          <span class="project-title"><a href=>Nonlinear Optimal Control of the COVID-19 Pandemic in Connecticut (2020)</a>
+      </div><!--//item-->
+      <div class="details">
+        <div>
+          <ul>
+            <li>Created a modified SEIR model of COVID-19 spread in Connecticut, and formulated a discrete, nonlinear, predictive, closed-loop feedback controller to minimize the number of infected.
+              <ul>
+              </ul>
+            </li>
+            <li>Simulated mathematical model in Python using the GEKKO optimization suite
+              <ul>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="item">
+          <span class="project-title"><a href=>HeroX NextGen Cart Design Challenge | Presque Labs LLC (2018)</a>
+      </div><!--//item-->
+      <div class="details">
+        <div>
+          <ul>
+            <li>Challenge winner for airport material transport (AMTC) concept to track and transport secured goods within an airport.
+              <ul>
+              </ul>
+            </li>
+            <li>Designed electrical circuit in KiCad and prototyped and fabricated PCB through OSH Park.
+              <ul>
+              </ul>
+            </li>
+            <li>Developed user interface and linked IoT sensors to SQL database using Python.
+              <ul>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="item">
+          <span class="project-title"><a href=>Arachnabot, Spider-Inspired Robot | Collective Embodied Intelligence Lab (2016)</a>
+      </div><!--//item-->
+      <div class="details">
+        <div>
+          <ul>
+            <li>Analyzed, modeled, and simulated a to-scale jumping robot with spider-inspired joints in MATLAB, using a differential algebraic equation (DAE) method.
+              <ul>
+              </ul>
+            </li>
+            <li>Directed micro-fabrication using FDM and SLA 3D printing methods
+              <ul>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="item">
+          <span class="project-title"><a href=>Cornell Concrete Canoe (2016)</a>
+      </div><!--//item-->
+      <div class="details">
+        <div>
+          <ul>
+            <li>3rd place finish at 2016 ASCE Concrete Canoe Competition.
+              <ul>
+              </ul>
+            </li>
+            <li>Coordinated and oversaw 6 subteams (aesthetics, analysis, business, mold, mix, and paddling) and 34 persons for the 2016 ASCE Concrete Canoe Competition.
+              <ul>
+              </ul>
+            </li>
+            <li>Introduced novel moisture sensors and concrete curing control.
+              <ul>
+              </ul>
+            </li>
+            <li>Eliminated shrinkage cracking while increasing tensile and compressive strength by 62% and 35%
+              <ul>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+</section><!--//section-->
+                    
+<section class="skills-section section">
+    <h2 class="section-title"><i class="fa fa-rocket"></i>Skills &amp; Proficiency</h2>
+    <div class="skillset">        
+            <div class="item">
+                <h3 class="level-title">ANSYS</h3>
+                <div class="level-bar">
+                    <div class="level-bar-inner" data-level="75%">
+                    </div>                                      
+                </div><!--//level-bar-->                                 
+            </div><!--//item-->
+            <div class="item">
+                <h3 class="level-title">HTML/CSS</h3>
+                <div class="level-bar">
+                    <div class="level-bar-inner" data-level="95%">
+                    </div>                                      
+                </div><!--//level-bar-->                                 
+            </div><!--//item-->
+            <div class="item">
+                <h3 class="level-title">JavaScript</h3>
+                <div class="level-bar">
+                    <div class="level-bar-inner" data-level="90%">
+                    </div>                                      
+                </div><!--//level-bar-->                                 
+            </div><!--//item-->
+            <div class="item">
+                <h3 class="level-title">KiCad</h3>
+                <div class="level-bar">
+                    <div class="level-bar-inner" data-level="75%">
+                    </div>                                      
+                </div><!--//level-bar-->                                 
+            </div><!--//item-->
+            <div class="item">
+                <h3 class="level-title">LaTeX</h3>
+                <div class="level-bar">
+                    <div class="level-bar-inner" data-level="95%">
+                    </div>                                      
+                </div><!--//level-bar-->                                 
+            </div><!--//item-->
+            <div class="item">
+                <h3 class="level-title">MATLAB</h3>
+                <div class="level-bar">
+                    <div class="level-bar-inner" data-level="95%">
+                    </div>                                      
+                </div><!--//level-bar-->                                 
+            </div><!--//item-->
+            <div class="item">
+                <h3 class="level-title">Microsoft Access</h3>
+                <div class="level-bar">
+                    <div class="level-bar-inner" data-level="95%">
+                    </div>                                      
+                </div><!--//level-bar-->                                 
+            </div><!--//item-->
+            <div class="item">
+                <h3 class="level-title">Python</h3>
+                <div class="level-bar">
+                    <div class="level-bar-inner" data-level="95%">
+                    </div>                                      
+                </div><!--//level-bar-->                                 
+            </div><!--//item-->
+            <div class="item">
+                <h3 class="level-title">React</h3>
+                <div class="level-bar">
+                    <div class="level-bar-inner" data-level="75%">
+                    </div>                                      
+                </div><!--//level-bar-->                                 
+            </div><!--//item-->
+            <div class="item">
+                <h3 class="level-title">Solidworks</h3>
+                <div class="level-bar">
+                    <div class="level-bar-inner" data-level="75%">
+                    </div>                                      
+                </div><!--//level-bar-->                                 
+            </div><!--//item-->
+            <div class="item">
+                <h3 class="level-title">Visual Basic for Applications (VBA)</h3>
+                <div class="level-bar">
+                    <div class="level-bar-inner" data-level="95%">
+                    </div>                                      
+                </div><!--//level-bar-->                                 
+            </div><!--//item-->
+            <div class="item">
+                <h3 class="level-title">Structured Query Language (SQL)</h3>
+                <div class="level-bar">
+                    <div class="level-bar-inner" data-level="90%">
+                    </div>                                      
+                </div><!--//level-bar-->                                 
+            </div><!--//item-->
+            <div class="item">
+                <h3 class="level-title">Wordpress</h3>
+                <div class="level-bar">
+                    <div class="level-bar-inner" data-level="75%">
+                    </div>                                      
+                </div><!--//level-bar-->                                 
+            </div><!--//item-->
+    </div>  
+</section><!--//skills-section-->
+        
+    </div><!--//main-body-->
+</div>
+
+    <footer class="footer">
+      <div class="text-center">
+          <small class="copyright">Designed with <a href="https://github.com/getpelican/pelican/" target="_blank" rel="nofollow">Pelican</a></small>
+      </div><!--//container-->
+  </footer><!--//footer-->
+    <script type="text/javascript" src="./theme/js/jquery-1.12.4.min.js"></script>
+    <script type="text/javascript" src="./theme/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="./theme/js/main.js"></script>
+</body>
+</html>
