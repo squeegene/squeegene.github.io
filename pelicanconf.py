@@ -7,20 +7,13 @@ SITENAME = "Eugene Ng"
 SITEURL = ""
 TIMEZONE = "America/New_York"
 
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
-
 # Theme
 THEME = "./pelican-resume"
 
 # Profile information
 NAME = "Eugene Ng"
 TAGLINE = "Engineer"
-PIC = "profile.png"
+PIC = "profile.png" # Make sure you put a profile.png in your ./content folder
 
 # Sidebar links
 EMAIL = "eyn2@cornell.edu"
