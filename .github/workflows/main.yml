@@ -41,4 +41,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: source
-          folder: content # The folder the action should deploy.
+          folder: output # The folder the action should deploy.
