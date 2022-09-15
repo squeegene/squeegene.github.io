@@ -56,7 +56,7 @@ EXPERIENCES = [
           "Wrote technical specifications identifying critical processes and guiding design concepts for external vendors",
           "Negotiated commercial (pricing, payment structure) and legal terms and conditions to reduce cost and risk",
           "Validated and led acceptance tests for all projects, including material handling automation equipment, machining and inspection systems, and CNC and welding equipment, etc.",
-          "Provided EAR and ITAR classifications for export of sensitive technical data",
+          "Provided EAR and ITAR classifications for export of sensitive technical data.",
         ]
       },
       {"description": "Converted capital equipment Access database to SQL Server with Agilepoint front-end (2021)"},
