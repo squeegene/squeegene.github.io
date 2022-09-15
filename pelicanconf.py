@@ -22,7 +22,7 @@ WEBSITE = "eugene.ng"
 PORTFOLIO = "portfolio.eugene.ng"
 LINKEDIN = "eugeneyng"
 GITHUB = "eugeneyng"
-PDF = "https://github.com/eugeneyng/eugeneyng.github.io/content/resume.pdf"
+PDF = "https://raw.githubusercontent.com/eugeneyng/eugeneyng.github.io/pelican/content/docs/resume.pdf"
 
 CAREER_SUMMARY = "I am a technical project manager with 5+ years experience managing fast-paced military and commercial contracts. On the side, my company, Presque Labs LLC has won or finalized in multiple design challenges (HeroX, YCombinator). In my free time I love to stay active and play volleyball, tennis, and ski."
 
@@ -130,7 +130,7 @@ PROJECTS = [
         "description": "Simulated mathematical model in Python using the GEKKO optimization suite"
       }
     ],
-    "link": ""
+    "link": "https://raw.githubusercontent.com/eugeneyng/eugeneyng.github.io/pelican/content/docs/engr5315.pdf"
 	},
 	{
 		"title": "HeroX NextGen Cart Design Challenge | Presque Labs LLC (2018)",
@@ -145,7 +145,7 @@ PROJECTS = [
         "description": "Developed user interface and linked IoT sensors to SQL database using Python."
       },
     ],
-    "link": ""
+    "link": "https://www.herox.com/nextgen-cart-design-challenge"
 	},
 	{
 		"title": "Arachnabot, Spider-Inspired Robot | Collective Embodied Intelligence Lab (2016)",
@@ -156,7 +156,8 @@ PROJECTS = [
       {
         "description": "Directed micro-fabrication using FDM and SLA 3D printing methods"
       }
-    ]
+    ],
+    "link": "https://raw.githubusercontent.com/eugeneyng/eugeneyng.github.io/pelican/content/docs/arachnabot.pdf"
 	},
   {
 		"title": "Cornell Concrete Canoe (2016)",
@@ -174,7 +175,7 @@ PROJECTS = [
         "description": "Eliminated shrinkage cracking while increasing tensile and compressive strength by 62% and 35%"
       }
     ],
-    "link": ""
+    "link": "https://raw.githubusercontent.com/eugeneyng/eugeneyng.github.io/pelican/content/docs/thrakos.pdf"
 	},
 ]
 
