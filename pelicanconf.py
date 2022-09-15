@@ -15,7 +15,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Theme
-THEME = "/mnt/A638627D38624BFD/ngyeu/documents/projects/eugeneyng.github.io/pelican-resume"
+THEME = "./pelican-resume"
 
 # Profile information
 NAME = "Eugene Ng"
