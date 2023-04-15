@@ -45,9 +45,19 @@ EDUCATION = [
 ]
 
 EXPERIENCES = [
+  {
+    "job_title": "Manager, Manufacturing Engineering & Operations",
+    "time": "Feb 2022 - Present",
+    "company": "Pratt & Whitney | Raytheon Technologies Corp",
+    "details": [
+      {"description": "Developed and maintained financial models to support business forecasting and budgeting processes, including revenue, expense, and capital expenditure forecasts"},
+      {"description": "Analyzed financial data to identify trends and provide insights into business performance"},
+      {"description": "Collaborated with cross-functional teams to develop and implement financial strategies that aligned with business objectives"},
+    ],
+  },
 	{
-		"job_title": "Manager, Manufacturing Engineering & Operations",
-		"time": "Feb 2017 - Present",
+		"job_title": "Principal Engineer, Manufacturing Engineering & Operations",
+		"time": "Feb 2017 - Feb 2022",
 		"company": "Pratt & Whitney | Raytheon Technologies Corp",
 		"details": [
       {
