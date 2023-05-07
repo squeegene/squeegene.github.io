@@ -51,19 +51,19 @@ EXPERIENCES = [
     "company": "Pratt & Whitney | Raytheon Technologies Corp",
     "details": [
       {
-        "description": "Developed and maintained financial models to support business forecasting and budgeting processes, including revenue, expense, and capital expenditure forecasts".
+        "description": "Developed and maintained financial models to support business forecasting and budgeting processes, including revenue, expense, and capital expenditure forecasts",
       	"inner_details": [
-	  "Analyzed financial data to identify trends and provide insights into business performance",
-	  "Collaborated with cross-functional teams to develop and implement financial strategies that aligned with business objectives",
-	]
+          "Analyzed financial data to identify trends and provide insights into business performance",
+          "Collaborated with cross-functional teams to develop and implement financial strategies that aligned with business objectives",
+        ]
       },
       {
         "description": "Led team of five developers to design, program, and execute the largest (to-date) Agilepoint application at RTX",
         "inner_details": [
-	  "Modernized capital equipment Access database by converting to SQL Server (2021)",
-	  "Established new approval workflows in Sharepoint/Agilepoint and decreased process times by up to 40% (2023)",
-	  "Responsible for data sanitization and visualization to help interpret and drive company-wide spend profiles",
-	]
+          "Modernized capital equipment Access database by converting to SQL Server (2021)",
+          "Established new approval workflows in Sharepoint/Agilepoint and decreased process times by up to 40% (2023)",
+          "Responsible for data sanitization and visualization to help interpret and drive company-wide spend profiles",
+	      ]
       },
     ],
   },
