@@ -50,16 +50,28 @@ EXPERIENCES = [
     "time": "Feb 2022 - Present",
     "company": "Pratt & Whitney | Raytheon Technologies Corp",
     "details": [
-      {"description": "Developed and maintained financial models to support business forecasting and budgeting processes, including revenue, expense, and capital expenditure forecasts"},
-      {"description": "Analyzed financial data to identify trends and provide insights into business performance"},
-      {"description": "Collaborated with cross-functional teams to develop and implement financial strategies that aligned with business objectives"},
+      {
+        "description": "Developed and maintained financial models to support business forecasting and budgeting processes, including revenue, expense, and capital expenditure forecasts".
+      	"inner_details": [
+	  "Analyzed financial data to identify trends and provide insights into business performance",
+	  "Collaborated with cross-functional teams to develop and implement financial strategies that aligned with business objectives",
+	]
+      },
+      {
+        "description": "Led team of five developers to design, program, and execute the largest (to-date) Agilepoint application at RTX",
+        "inner_details": [
+	  "Modernized capital equipment Access database by converting to SQL Server (2021)",
+	  "Established new approval workflows in Sharepoint/Agilepoint and decreased process times by up to 40% (2023)",
+	  "Responsible for data sanitization and visualization to help interpret and drive company-wide spend profiles",
+	]
+      },
     ],
   },
-	{
-		"job_title": "Principal Engineer, Manufacturing Engineering & Operations",
-		"time": "Feb 2017 - Feb 2022",
-		"company": "Pratt & Whitney | Raytheon Technologies Corp",
-		"details": [
+  {
+    "job_title": "Principal Engineer, Manufacturing Engineering & Operations",
+    "time": "Feb 2017 - Feb 2022",
+    "company": "Pratt & Whitney | Raytheon Technologies Corp",
+    "details": [
       {
         "description": "Oversaw procurement of hundreds of capital equipment projects totaling more than $100M per year",
         "inner_details": [
@@ -72,12 +84,12 @@ EXPERIENCES = [
       {"description": "Converted capital equipment Access database to SQL Server with Agilepoint front-end (2021)"},
       {"description": "Established new quote approval operations workflow in Sharepoint and decreased process time by 50% (2021)"}
     ],
-	},
-	{
-		"job_title": "Co-Founder",
-		"time": "Jul 2015 - Present",
-		"company": "Presque Labs LLC",
-		"details": [
+  },
+  {
+    "job_title": "Co-Founder",
+    "time": "Jul 2015 - Present",
+    "company": "Presque Labs LLC",
+    "details": [
       {
         "description": "HeroX NextGen Cart Design Challenge winner for airport material transport (AMTC) concept to track and transport secured goods within an airport (2018)",
         "inner_details": [
