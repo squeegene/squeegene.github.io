@@ -46,7 +46,7 @@ EDUCATION = [
 
 EXPERIENCES = [
   {
-    "job_title": "Manager, Manufacturing Engineering & Operations",
+    "job_title": "Senior Manager, Manufacturing Engineering & Operations",
     "time": "Feb 2022 - Present",
     "company": "Pratt & Whitney | Raytheon Technologies Corp",
     "details": [
