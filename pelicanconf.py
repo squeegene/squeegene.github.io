@@ -19,12 +19,12 @@ PIC = "profile.png" # Make sure you put a profile.png in your ./content folder
 EMAIL = "eyn2@cornell.edu"
 PHONE = "860 726 6143"
 WEBSITE = "eugene.ng"
-PORTFOLIO = "portfolio.eugene.ng"
+# PORTFOLIO = "portfolio.eugene.ng"
 LINKEDIN = "eugeneyng"
 GITHUB = "eugeneyng"
 PDF = "https://raw.githubusercontent.com/eugeneyng/eugeneyng.github.io/pelican/content/docs/resume.pdf"
 
-CAREER_SUMMARY = "I am a technical project manager with 5+ years experience managing fast-paced military and commercial contracts. On the side, my company, Presque Labs LLC has won or finalized in multiple design challenges (HeroX, YCombinator). In my free time I love to stay active and play volleyball, tennis, and ski."
+CAREER_SUMMARY = "I am a technical project manager with 8+ years experience managing fast-paced military and commercial contracts. My company Presque Labs LLC has won or finalized in multiple design challenges (HeroX, YCombinator). In my free time I love to stay active and play volleyball, tennis, and ski."
 
 EDUCATION = [
 	{
@@ -46,8 +46,8 @@ EDUCATION = [
 
 EXPERIENCES = [
   {
-    "job_title": "Senior Manager, Manufacturing Engineering & Operations",
-    "time": "Feb 2022 - Present",
+    "job_title": "Associate Director, Manufacturing Engineering & Operations",
+    "time": "May 2024 - Present",
     "company": "Pratt & Whitney | Raytheon Technologies Corp",
     "details": [
       {
@@ -68,8 +68,8 @@ EXPERIENCES = [
     ],
   },
   {
-    "job_title": "Principal Engineer, Manufacturing Engineering & Operations",
-    "time": "Feb 2017 - Feb 2022",
+    "job_title": "Various Positions, Manufacturing Engineering & Operations",
+    "time": "Feb 2017 - May 2024",
     "company": "Pratt & Whitney | Raytheon Technologies Corp",
     "details": [
       {
